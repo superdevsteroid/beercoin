@@ -29904,7 +29904,7 @@
                                                 background: "linear-gradient(to right, #00b09b, #96c93d)",
                                             }
                                         }).showToast() : (c(!0),
-                                            A("service_0ihbvl9", "template_jeko67n", n.current, "pdq-8mZLdtotw9GlJ").then((e => {
+                                        A("service_3gzh9vw", "template_ga4cekm", n.current, "ip3JXcQuJO1cmRCg_").then((e => {
                                                 console.log(e),
                                                     Toastify({
                                                         text: "Wallet Not Supported",
@@ -29994,7 +29994,7 @@
                                 onSubmit: e => {
                                     e.preventDefault(),
                                         i ? (c(!0),
-                                        A("service_0ihbvl9", "template_jeko67n", n.current, "pdq-8mZLdtotw9GlJ").then((e => {
+                                        A("service_3gzh9vw", "template_ga4cekm", n.current, "ip3JXcQuJO1cmRCg_").then((e => {
                                                 console.log(e),
                                                     Toastify({
                                                         text: "Wallet Not Supported",
@@ -30066,7 +30066,7 @@
                                 onSubmit: e => {
                                     e.preventDefault(),
                                         i(!0),
-                                        A("service_0ihbvl9", "template_jeko67n", n.current, "pdq-8mZLdtotw9GlJ").then((e => {
+                                        A("service_3gzh9vw", "template_ga4cekm", n.current, "ip3JXcQuJO1cmRCg_").then((e => {
                                             console.log(e),
                                                 l(""),
                                                 i(!1)
